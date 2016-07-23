@@ -1,11 +1,11 @@
 PictureCache
 ================
-###   Arthor:¶¬Ö®Ïş:stuck_out_tongue_winking_eye:
+###   Arthor:å†¬ä¹‹æ™“:stuck_out_tongue_winking_eye:
 ###   Email: 347916416@qq.com
-###   MyAppearance: ![MyAppearance](https://github.com/Dongzhixiao/PictureCache/blob/master/MyPicture.JPG "ÎÒµÄÍ·Ïñ")
+###   MyAppearance: ![MyAppearance](./MyPicture.JPG "æˆ‘çš„å¤´åƒ")
 ---------
 This is a file which contains all the pictures that I've collected.  
 It inludes:
 - [x] My Appearance 
 - [ ] some gif picture
-- [ ] some animation picture
+- [x] some animation picture
