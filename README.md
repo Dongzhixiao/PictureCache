@@ -9,3 +9,4 @@ It inludes:
 - [x] My Appearance 
 - [ ] some gif picture
 - [x] some animation picture
+- [x] My diary(continue to update...)
